@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, main, footer {
+    margin: 20px;
+}
+
+h1 {
+    color: #3498db;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #2ecc71;
+    color: #fff;
+   
+}
+
+footer {
+   
+    padding-top: 10px;
+  
+    text-align: center;
+    color: #777;
+}
